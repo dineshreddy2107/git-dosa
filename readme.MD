@@ -9,3 +9,7 @@
 *Erra Karam
  # egg dosa
    Dosa Batter
+
+   double egg
+   double masala
+   heavy oil
