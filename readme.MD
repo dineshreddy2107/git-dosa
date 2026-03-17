@@ -11,3 +11,4 @@
 # Egg Dosa
   DOUBLE EGG
   KARRAM
+  light oil
