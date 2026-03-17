@@ -7,3 +7,7 @@
 # Karam Dosa
 * Dosa Batter
 *  Erra Karam
+
+# Egg Dosa
+  DOUBLE EGG
+  KARRAM
